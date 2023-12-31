@@ -1,0 +1,10 @@
+com\example\api\ApiApplication.class
+com\example\api\model\MataKuliah.class
+com\example\api\controller\MahasiswaController.class
+com\example\api\model\Mahasiswa.class
+com\example\api\repository\MahasiswaRepository.class
+com\example\api\service\MahasiswaService.class
+com\example\api\enums\Gender.class
+com\example\api\repository\MataKuliahRepository.class
+com\example\api\service\MataKuliahService.class
+com\example\api\enums\Prodi.class
